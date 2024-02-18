@@ -1,0 +1,14 @@
+-------- Generated from https://sefinek.net/blocklist-generator at 2024-02-18T02:29:21.371Z --------
+
+https://blocklist.sefinek.net/generated/0.0.0.0/apps/whatsapp.txt
+https://blocklist.sefinek.net/generated/0.0.0.0/forks/developerdan.amp-hosts-extended.txt
+https://blocklist.sefinek.net/generated/0.0.0.0/forks/ente-dev.google-amp-hosts.txt
+https://blocklist.sefinek.net/generated/0.0.0.0/games/league-of-legends.txt
+https://blocklist.sefinek.net/generated/0.0.0.0/games/valorant.txt
+https://blocklist.sefinek.net/generated/0.0.0.0/sites/omegle.txt
+https://blocklist.sefinek.net/generated/0.0.0.0/sites/riotgames.txt
+https://blocklist.sefinek.net/generated/0.0.0.0/social/facebook.txt
+https://blocklist.sefinek.net/generated/0.0.0.0/social/instagram.txt
+https://blocklist.sefinek.net/generated/0.0.0.0/social/snapchat.txt
+https://blocklist.sefinek.net/generated/0.0.0.0/social/tiktok.txt
+https://blocklist.sefinek.net/generated/0.0.0.0/social/twitter.txt
