@@ -1,4 +1,7 @@
 -------- Generated from https://sefinek.net/blocklist-generator at 2024-02-18T02:29:21.371Z --------
+https://blocklistproject.github.io/Lists/tiktok.txt
+https://cdn.sefinek.net/resources/PiHole-Blocklist-Collection/blocklist/social/tiktok.txt
+https://ente.dev/api/blocklist/tiktok
 http://us.bytedance.map.fastly.net/
 v45.tiktokcdn-us.com
 apil6-core-useast8.us.tiktokv.com
