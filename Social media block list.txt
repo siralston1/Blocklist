@@ -1,8 +1,0 @@
-https://blocklistproject.github.io/Lists/tiktok.txt
-https://cdn.sefinek.net/resources/PiHole-Blocklist-Collection/blocklist/social/tiktok.txt
-https://ente.dev/api/blocklist/tiktok
-https://raw.githubusercontent.com/nickoppen/pihole-blocklists/master/blocklist-snapchat.txt
-https://cdn.sefinek.net/resources/PiHole-Blocklist-Collection/blocklist/social/instagram.txt
-https://cdn.sefinek.net/resources/PiHole-Blocklist-Collection/blocklist/social/facebook.txt
-https://raw.githubusercontent.com/d43m0nhLInt3r/socialblocklists/master/Facebook/facebookblocklist.txt
-https://cdn.sefinek.net/resources/PiHole-Blocklist-Collection/blocklist/social/twitter.txt
