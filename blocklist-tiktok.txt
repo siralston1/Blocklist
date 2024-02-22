@@ -1,5 +1,4 @@
-# tiktok.com
-
+tiktok.com
 0.0.0.0 tiktok.com
 0.0.0.0 vm.tiktok.com
 0.0.0.0 newsroom.tiktok.com
